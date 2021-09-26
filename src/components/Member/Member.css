@@ -1,0 +1,14 @@
+.member{
+    background-color: rgb(72, 81, 82);
+    border: 1px solid black;
+    color: rgb(248, 211, 141);
+}
+.member img{
+    width: 120px;
+    border-radius: 50%;
+}
+.btn{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(235, 158, 15);
+}

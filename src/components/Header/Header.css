@@ -1,0 +1,15 @@
+.head{
+    text-align: center;
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(56, 95, 95);
+}
+.heading-line{
+    color: rgb(228, 241, 109);
+    font-style:oblique;
+}
+.heading-line2{
+    color: orange;
+    font-style: oblique;
+    
+}
