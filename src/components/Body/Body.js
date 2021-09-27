@@ -18,7 +18,7 @@ const Body = () => {
     }
     return ( 
         <>
-        <h1 className="title">Total Members:{members.length} </h1>
+        <h1 className="title"><u>Total Members:{members.length}</u> </h1>
         <div className="body-container">
            <div className="member-container">
             {
