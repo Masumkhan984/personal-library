@@ -25,7 +25,7 @@ const Card = (props) => {
             <table className="table">
             <tr><td>Total Borrowing Books:</td> <td>{borrow}</td></tr>
             <tr><td>Total Bought Books:</td> <td>{bought}</td></tr>
-            <tr><td><h2>Total Price:</h2></td> <td><h2>${fee}</h2></td></tr>
+            <tr><td><h2>Total Fees Collection:</h2></td> <td><h2>${fee}</h2></td></tr>
             </table>
         </div>
     );
