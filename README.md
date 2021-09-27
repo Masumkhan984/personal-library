@@ -1,6 +1,6 @@
-# My Personal Library Members' Web Site
+# AmaderPathagar Library Fees Collection
 
-Here You Can visite my AmaderPathagar Library : https://library-club.netlify.app/.
+Here You Can visite the site of AmaderPathagar Library : https://library-club.netlify.app/.
 
 
 ## The mean Features of My Library
